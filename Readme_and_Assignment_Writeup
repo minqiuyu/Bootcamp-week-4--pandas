@@ -1,0 +1,11 @@
+Homework done for the Python Pandas unit. Included is the csv file that the assignment and project file are based on. 
+Below are three inferences from data, as requested by the assignment:
+
+1. Although the game has a population of players larger than the purchase data document would suggest, this is because not every player
+made a microtransactional purchase. Of course, when they did, they tended to spend extra on other things. 
+2. While the population of this hypothetical MMO being analyzed is overwhelmingly male, the female and nondisclosed/other gender segments
+actually spend roughly 50 cents more than males on average per player (This amounts to about a 12% increase compared to the average male 
+player that's made a purchase in game)
+3. The most profitable and most purchased items had a suspiciously high amount of correlation to each other; three out of five items are
+the same across both lists (Oathbreaker, Last Hope of the Breaking Storm, Nirvana, and Fiery Glass Crusader) with Oathbreaker topping 
+both lists. This could be regarding their gamebreaking potential, attractive/cool appearances, or both. 
